@@ -2,7 +2,7 @@
   "name": "card-memory-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://mohcinenazrhan.github.io/card-memory-game-react",
+  "homepage": "http://mohcinenazrhan.github.io/card-memory-game-react/",
   "dependencies": {
     "lodash.shuffle": "^4.2.0",
     "react": "^16.5.2",
